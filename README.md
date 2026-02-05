@@ -88,7 +88,7 @@ I enjoy working at the intersection of business problems and data, where clarity
 ## 📫 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/afsana-ferdous  
-- **GitHub:** https://github.com/afsana-ferdous/afsana-ferdous  
+- **GitHub:** https://github.com/afsana-ferdous/afsana-ferdous 
 
 Open to **Business Intelligence and Data Analytics opportunities**.  
 Happy to connect, collaborate, or discuss data-driven ideas.

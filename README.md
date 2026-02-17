@@ -1,97 +1,102 @@
-# Business Intelligence & Data Analyst
+# Afsana Ferdous  
+### Business Intelligence & Data Analyst  
+Power BI | SQL | Python | R | KPI Modelling | Data Storytelling  
 
-Turning data into clear, decision-ready insights for better decision-making.
-
----
-
-## 👋 About Me
-
-I am a **Business Intelligence & Data Analyst** with hands-on experience using **Power BI, SQL, Python, and R** to support data-driven decision-making. My work focuses on data modelling, analytics, dashboards, and storytelling with data helping stakeholders move from raw datasets to practical insights they can act on.
-I enjoy working at the intersection of business problems and data, where clarity, accuracy, and context matter as much as technical skill.
+Auckland, New Zealand  
+📎 LinkedIn: https://www.linkedin.com/in/afsana-ferdous  
 
 ---
 
-## 💼 What I Do
+## About Me
 
-- Build Power BI dashboards that communicate performance, trends, and risks clearly  
-- Design data models and write efficient SQL queries to support reliable analysis  
-- Clean, transform, and analyse data using Python and R  
-- Translate business questions into analytical approaches and measurable insights  
-- Present findings for both technical and non-technical audiences  
+I am a Business Intelligence & Data Analyst specialising in transforming complex datasets into structured, decision-ready insights.
 
----
+My work focuses on:
 
-## 🎯 How I Add Value
+- KPI modelling and executive dashboard design  
+- Data modelling (star schema, relationships, performance optimisation)  
+- Analytical segmentation and clustering  
+- Translating business questions into measurable metrics  
 
-- Transform complex data into simple, decision-ready outputs  
-- Improve visibility of key metrics through well-structured, intuitive dashboards  
-- Support commercial, operational, and policy-related decisions with evidence  
-- Balance analytical depth with clear communication and documentation  
+I enjoy working at the intersection of business strategy and data — where analytical rigour, clarity, and commercial relevance matter equally.
 
 ---
 
-## 🛠️ Technical Skills
+## What I Deliver
 
-### Business Intelligence & Visualisation
+✔ Executive-ready Power BI dashboards  
+✔ Structured data models for reliable reporting  
+✔ SQL-driven analysis for revenue and performance insights  
+✔ Python & R-based exploratory and predictive analytics  
+✔ Clear communication of findings for technical and non-technical stakeholders  
+
+---
+
+## Technical Strengths
+
+### Business Intelligence
 - Power BI Desktop  
-- DAX measures  
-- Power Query transformations  
-- Data modelling (star schema, relationships)  
-- Executive dashboards & KPI reporting  
+- DAX measures and calculated columns  
+- Star schema modelling  
+- KPI framework design  
+- Dashboard storytelling and layout optimisation  
 
 ### Data & Analytics
-- SQL (queries, joins, aggregations)  
-- Python (pandas, data cleaning, analysis)  
-- R (statistical analysis, visualisation)  
-- Forecasting, What-If analysis, exploratory analytics  
+- SQL (joins, aggregations, CTEs, performance queries)  
+- Python (pandas, data cleaning, exploratory analysis)  
+- R (clustering, statistical modelling)  
+- Feature engineering and segmentation  
+- Exploratory and comparative analysis  
 
-### Tools & Workflow
+### Workflow & Tools
 - Power BI Desktop  
 - Azure Data Studio  
 - Jupyter Notebook  
 - RStudio  
-- SPSS  
 
 ---
 
-## 📌 Featured Work & Project Highlights
+## Featured Projects
 
-- **True Margin Analysis (Industry)**  
-  Built transaction-level profitability models and Power BI dashboards to analyse margin drivers and support pricing decisions for commercial stakeholders.
+### 📊 Netflix Content Performance Analytics  
+Business Intelligence dashboards and K-means clustering to evaluate global content performance, awards impact, and market segmentation.  
+**Tools:** Power BI, R  
 
-- **Business Intelligence Dashboards**  
-  Designed multi-page dashboards to explore performance, trends, and segmentation using real-world datasets.
+### 💰 True Margin & Profitability Analysis  
+Transaction-level modelling and margin analysis to identify pricing drivers and commercial risk areas.  
+**Tools:** Power BI, SQL  
 
-- **Revenue Analytics & Data Modelling**  
-  Developed star-schema data models and SQL analysis to identify revenue concentration and support targeted decision-making.
+### 📈 Customer Churn Prediction  
+Random Forest model to identify high-risk customer segments and support retention strategy.  
+**Tools:** R  
 
-- **Predictive Analytics (Churn)**  
-  Applied machine learning techniques to identify high-risk customer segments and inform retention strategies.
-
-- **Sustainability & Decision Analytics**  
-  Integrated public datasets to explore economic and environmental patterns and support long-term planning insights.
-
-👉 Selected projects are pinned below for easy access.
-
----
-
-## 🤝 Ways of Working
-
-- Clear and structured communication  
-- Cross-functional collaboration  
-- Documentation-focused delivery  
-- Insight-driven problem solving  
-- Practical handover of analytical outputs  
+### 🌍 Sustainability & Economic Analysis  
+Integrated OECD emissions, GDP, and urbanisation datasets to explore long-term economic-environmental patterns.  
+**Tools:** Python  
 
 ---
 
-## 📫 Let’s Connect
+## How I Work
 
-- **LinkedIn:** https://www.linkedin.com/in/afsana-ferdous  
-- **GitHub:** https://github.com/afsana-ferdous/afsana-ferdous 
+- Structured and documentation-focused  
+- Insight-driven rather than tool-driven  
+- Clear communication of assumptions and limitations  
+- Commercially aware interpretation of analytical outputs  
 
-Open to **Business Intelligence and Data Analytics opportunities**.  
-Happy to connect, collaborate, or discuss data-driven ideas.
+---
 
-⭐ If you find my projects useful, feel free to explore or reach out.
+## Current Focus
+
+Actively seeking opportunities in:
+
+- Business Intelligence  
+- Data Analytics  
+- Reporting & Insights  
+- Commercial Performance Analysis  
+
+Open to graduate and junior-level roles in Auckland and across New Zealand.
+
+---
+
+⭐ Selected projects are pinned below for quick access.
 
